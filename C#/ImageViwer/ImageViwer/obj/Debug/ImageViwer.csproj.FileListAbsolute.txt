@@ -1,0 +1,12 @@
+D:\C#\ImageViwer\ImageViwer\bin\Debug\ImageViwer.exe.config
+D:\C#\ImageViwer\ImageViwer\bin\Debug\ImageViwer.exe
+D:\C#\ImageViwer\ImageViwer\bin\Debug\ImageViwer.pdb
+D:\C#\ImageViwer\ImageViwer\bin\Debug\ImageViewer.BL.dll
+D:\C#\ImageViwer\ImageViwer\bin\Debug\ImageViewer.BL.pdb
+D:\C#\ImageViwer\ImageViwer\obj\Debug\ImageViwer.csprojResolveAssemblyReference.cache
+D:\C#\ImageViwer\ImageViwer\obj\Debug\ImageViwer.MainForm.resources
+D:\C#\ImageViwer\ImageViwer\obj\Debug\ImageViwer.Properties.Resources.resources
+D:\C#\ImageViwer\ImageViwer\obj\Debug\ImageViwer.csproj.GenerateResource.Cache
+D:\C#\ImageViwer\ImageViwer\obj\Debug\ImageViwer.csproj.CoreCompileInputs.cache
+D:\C#\ImageViwer\ImageViwer\obj\Debug\ImageViwer.exe
+D:\C#\ImageViwer\ImageViwer\obj\Debug\ImageViwer.pdb

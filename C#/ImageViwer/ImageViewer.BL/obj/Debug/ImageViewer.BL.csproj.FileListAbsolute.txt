@@ -1,0 +1,5 @@
+D:\C#\ImageViwer\ImageViewer.BL\bin\Debug\ImageViewer.BL.dll
+D:\C#\ImageViwer\ImageViewer.BL\bin\Debug\ImageViewer.BL.pdb
+D:\C#\ImageViwer\ImageViewer.BL\obj\Debug\ImageViewer.BL.csproj.CoreCompileInputs.cache
+D:\C#\ImageViwer\ImageViewer.BL\obj\Debug\ImageViewer.BL.dll
+D:\C#\ImageViwer\ImageViewer.BL\obj\Debug\ImageViewer.BL.pdb

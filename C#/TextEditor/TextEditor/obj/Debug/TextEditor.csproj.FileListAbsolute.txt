@@ -1,0 +1,12 @@
+D:\C#\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\C#\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\C#\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\C#\TextEditor\TextEditor\bin\Debug\TextEditor.BL.dll
+D:\C#\TextEditor\TextEditor\bin\Debug\TextEditor.BL.pdb
+D:\C#\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+D:\C#\TextEditor\TextEditor\obj\Debug\TextEditor.MainForm.resources
+D:\C#\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\C#\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+D:\C#\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\C#\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\C#\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
